@@ -1,18 +1,26 @@
 body {
-    background-image: url(https://files.slack.com/files-pri/T018RA60CNP-F01B1RFE933/ignasi_pattern_s.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    }
+  background-image: url(https://files.slack.com/files-pri/T018RA60CNP-F01B1RFE933/ignasi_pattern_s.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .navbar-light .navbar-brand {
-    background: teal;
-    color: white;
-  }
+  background: teal;
+  color: white;
+}
 
 .container {
-    margin-top: 50px;
-    margin-right: 100px;
-    margin-bottom: 50px;
-    margin-left: 80px;
-    background: white 
-  }
+  margin-top: 50px;
+  margin-right: 200px;
+  margin-bottom: 50px;
+  margin-left: 80px;
+  background: white;
+}
 
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: grey;
+}
