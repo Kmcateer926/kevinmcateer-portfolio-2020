@@ -1,20 +1,18 @@
+body {
+    background-image: url(https://files.slack.com/files-pri/T018RA60CNP-F01B1RFE933/ignasi_pattern_s.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
 .navbar-light .navbar-brand {
     background: teal;
     color: white;
   }
+
 .container {
-    padding-top: 50px;
-    padding-right: 30px;
-    padding-bottom: 50px;
-    padding-left: 80px;
+    margin-top: 50px;
+    margin-right: 100px;
+    margin-bottom: 50px;
+    margin-left: 80px;
     background: white 
   }
 
-  .hero {
-    height: 800px;
-    width: 100%;
-    margin-bottom: 25px;
-    background-image: url("");
-    background-size: cover;
-    background-position: center;
-}
