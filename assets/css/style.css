@@ -18,12 +18,16 @@ body {
   height: auto;
 }
 
+h2 {
+    color: teal;
+}
+
 img {
   max-width: 100%;
   height: auto;
 }
 
-.footer {
+footer {
   position: fixed;
   left: 0;
   bottom: 0;
