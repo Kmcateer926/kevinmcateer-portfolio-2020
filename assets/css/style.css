@@ -2,3 +2,19 @@
     background: teal;
     color: white;
   }
+.container {
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+    background: white 
+  }
+
+  .hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("");
+    background-size: cover;
+    background-position: center;
+}
