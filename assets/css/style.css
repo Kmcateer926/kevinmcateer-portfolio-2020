@@ -1,13 +1,27 @@
 body {
-  background-image: url(https://files.slack.com/files-pri/T018RA60CNP-F01B1RFE933/ignasi_pattern_s.png);
+  background-image: url(https://static.fmgsuite.com/media/images/dc96c7bf-ce0c-4935-8051-a88dd50cf516.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  background-attachment: fixed;
 }
 .navbar-light .navbar-brand {
-  background: teal;
-  color: white;
+  background: rgb(238, 198, 36);
+  color: rgb(222, 226, 3);
+  font-family: 'Oleo Script', cursive;
 }
 
+#navbar {
+background-color: black;
+
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+#contact {
+  text-align: center;
+  font-family: 'Oleo Script', cursive;
+}
 .container {
   margin-top: 50px;
   margin-right: 200px;
@@ -16,10 +30,12 @@ body {
   background: white;
   max-width: 100%;
   height: auto;
+  font-family: 'Oleo Script', cursive;
 }
 
 h2 {
-    color: teal;
+    color: rgb(161, 8, 8);
+    font-family: 'Oleo Script', cursive;
 }
 
 img {
@@ -33,5 +49,5 @@ footer {
   bottom: 0;
   width: 100%;
   height: 50px;
-  background-color: grey;
+  background-color: rgb(44, 44, 44);
 }
