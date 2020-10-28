@@ -21,9 +21,9 @@ In the contact page, you can see all of my contact information such as phone num
 # project
 
 screenshot of project below
-<img src="(assets\images\2020-10-28 (5).png)">
-<img src="(assets\images\2020-10-28 (6).png)">
-<img src="(assets\images\2020-10-28 (4).png)">
+<img src="assets\images\2020-10-28 (5).png">
+<img src="assets\images\2020-10-28 (6).png">
+<img src="assets\images\2020-10-28 (4).png">
 
 # Git Hub
 
