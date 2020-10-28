@@ -5,6 +5,12 @@
 this is a project to demonstrate columns, rows, and containers to perform on multiple devices depending on sizes.
 you will see that the pages resize if you shrink or expand the page and works on mobile devices.  It has been updated to display current information.
 
+# User Story:
+
+As A junior software developer
+I WANT TO let potential employers know about me
+SO THAT I can find a job
+
 # usage
 
 clone the repo onto your devise at https://github.com/Kmcateer926/kevinmcateer-portfolio-2020.git
@@ -15,8 +21,17 @@ In the contact page, you can see all of my contact information such as phone num
 # project
 
 screenshot of project below
-![alt text](images\2020-09-16.1.png)
-![alt text](images\2020-09-16.2.png)
-![alt text](images\2020-09-16.2.png)
+<img src="(assets\images\2020-10-28 (5).png)">
+<img src="(assets\images\2020-10-28 (6).png)">
+<img src="(assets\images\2020-10-28 (4).png)">
+
+# Git Hub
+
+https://github.com/Kmcateer926/kevinmcateer-portfolio-2020
+
+# Deployed
+
+https://kmcateer926.github.io/kevinmcateer-portfolio-2020/index.html
 
 # licenses
+Used MIT License for this assignment. 
