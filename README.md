@@ -11,6 +11,13 @@ As A junior software developer
 I WANT TO let potential employers know about me
 SO THAT I can find a job
 
+# Technologies
+
+HTML
+CSS
+JavaScript
+Bootstrap
+
 # usage
 
 clone the repo onto your devise at https://github.com/Kmcateer926/kevinmcateer-portfolio-2020.git
@@ -32,6 +39,12 @@ https://github.com/Kmcateer926/kevinmcateer-portfolio-2020
 # Deployed
 
 https://kmcateer926.github.io/kevinmcateer-portfolio-2020/index.html
+
+# contact 
+
+Phone: 706-867-5611
+
+Email: kmcateer926@gmail.com
 
 # licenses
 Used MIT License for this assignment. 
